@@ -166,7 +166,7 @@
   keypad:pointerkeys	=	+keypad(pointerkeys)
   apple:alupckeys	=	+macintosh_vndr/apple(alupckeys)
   apple:jp_pc106	=	+macintosh_vndr/apple(jp_pc106)
-  apple:jp_oadg109	=	+macintosh_vndr/apple(jp_oadg109)
+  apple:jp_oadg109a	=	+macintosh_vndr/apple(jp_oadg109a)
   shift:both_capslock                =       +shift(both_capslock)
   shift:lshift_both_capslock         =       +shift(lshift_both_capslock)
   shift:rshift_both_capslock         =       +shift(rshift_both_capslock)

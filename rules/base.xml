@@ -7743,8 +7743,8 @@
       </option>
       <option>
         <configItem>
-          <name>apple:jp_oadg109</name>
-          <description>Japanese Apple keyboards emulate OADG109 backslash</description>
+          <name>apple:jp_oadg109a</name>
+          <description>Japanese Apple keyboards emulate OADG109A backslash</description>
         </configItem>
       </option>
       <option>

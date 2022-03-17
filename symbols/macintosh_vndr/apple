@@ -141,7 +141,7 @@ xkb_symbols "alupckeys" {
 };
 
 partial
-xkb_symbols "jp_oadg109" {
+xkb_symbols "jp_oadg109a" {
     replace key <AB11> { [ backslash, underscore ] };
 };
 
