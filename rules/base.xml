@@ -7743,6 +7743,18 @@
       </option>
       <option>
         <configItem>
+          <name>apple:jp_oadg109</name>
+          <description>Japanese Apple keyboards emulate OADG109 backslash</description>
+        </configItem>
+      </option>
+      <option>
+        <configItem>
+          <name>apple:jp_pc106</name>
+          <description>Japanese Apple keyboards emulate PC106 backslash</description>
+        </configItem>
+      </option>
+      <option>
+        <configItem>
           <name>shift:breaks_caps</name>
           <description>Shift cancels Caps Lock</description>
         </configItem>
